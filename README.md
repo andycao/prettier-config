@@ -1,4 +1,4 @@
-# `@andycao/prettier-config`
+# `@andycao-npm/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @andycao/prettier-config
+$ yarn add --dev @andycao-npm/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @andycao/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@andycao/prettier-config"
+  "prettier": "@andycao-npm/prettier-config"
 }
 ```
